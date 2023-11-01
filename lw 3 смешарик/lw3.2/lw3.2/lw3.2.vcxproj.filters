@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Figures">
+      <UniqueIdentifier>{865d73d1-9606-4b80-8d1e-c5d578da7ad9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Task2.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Ellipse.cpp">
+      <Filter>Figures</Filter>
+    </ClCompile>
+    <ClCompile Include="Triangle.cpp">
+      <Filter>Figures</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangle.cpp">
+      <Filter>Figures</Filter>
+    </ClCompile>
+    <ClCompile Include="BrokenLine.cpp">
+      <Filter>Figures</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneralFigureClass.cpp">
+      <Filter>Figures</Filter>
+    </ClCompile>
+    <ClCompile Include="Body.cpp">
+      <Filter>Figures</Filter>
+    </ClCompile>
+    <ClCompile Include="Ear.cpp">
+      <Filter>Figures</Filter>
+    </ClCompile>
+    <ClCompile Include="Eye.cpp">
+      <Filter>Figures</Filter>
+    </ClCompile>
+    <ClCompile Include="Hair.cpp">
+      <Filter>Figures</Filter>
+    </ClCompile>
+    <ClCompile Include="Hand.cpp">
+      <Filter>Figures</Filter>
+    </ClCompile>
+    <ClCompile Include="Hat.cpp">
+      <Filter>Figures</Filter>
+    </ClCompile>
+    <ClCompile Include="Leg.cpp">
+      <Filter>Figures</Filter>
+    </ClCompile>
+    <ClCompile Include="Nose.cpp">
+      <Filter>Figures</Filter>
+    </ClCompile>
+    <ClCompile Include="Owl.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GeneralFiguresClass.h">
+      <Filter>Figures</Filter>
+    </ClInclude>
+    <ClInclude Include="Ellipse.h">
+      <Filter>Figures</Filter>
+    </ClInclude>
+    <ClInclude Include="Triangle.h">
+      <Filter>Figures</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle.h">
+      <Filter>Figures</Filter>
+    </ClInclude>
+    <ClInclude Include="BrokenLine.h">
+      <Filter>Figures</Filter>
+    </ClInclude>
+    <ClInclude Include="Body.h">
+      <Filter>Figures</Filter>
+    </ClInclude>
+    <ClInclude Include="Ear.h">
+      <Filter>Figures</Filter>
+    </ClInclude>
+    <ClInclude Include="Eye.h">
+      <Filter>Figures</Filter>
+    </ClInclude>
+    <ClInclude Include="Hair.h">
+      <Filter>Figures</Filter>
+    </ClInclude>
+    <ClInclude Include="Hand.h">
+      <Filter>Figures</Filter>
+    </ClInclude>
+    <ClInclude Include="Hat.h">
+      <Filter>Figures</Filter>
+    </ClInclude>
+    <ClInclude Include="Leg.h">
+      <Filter>Figures</Filter>
+    </ClInclude>
+    <ClInclude Include="Nose.h">
+      <Filter>Figures</Filter>
+    </ClInclude>
+    <ClInclude Include="Owl.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

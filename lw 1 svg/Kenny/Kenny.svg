@@ -1,0 +1,67 @@
+<svg height="400" width="400" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+
+<!--тело-->
+  <polyline points="115,200 95,290 105,293 105,325 205,325 205,293 215,290 195,200" fill="#f56701" stroke-width="1" stroke="rgb(245,103,1)"/>
+
+<!--ноги-->
+  <polyline points="98,325 212,325" fill="#f56701" stroke-width="5" stroke="rgb(46,37,56)"/>
+
+<!--руки-->
+  <ellipse cx="140" cy="235" rx="18" ry="45" fill="#f56701" stroke-width="0" stroke="rgb(46,37,56)"
+  transform="rotate(20, 138, 151)"/>
+  <ellipse cx="169" cy="247" rx="18" ry="45" fill="#f56701" stroke-width="0" stroke="rgb(46,37,56)"
+  transform="rotate(-20, 138, 151)"/>
+
+<!--ладошки-->
+  <circle cx="95" cy="265" r="15" fill="#793e13"/>
+  <circle cx="105" cy="260" r="6" fill="#793e13" stroke="rgb(49,50,50)"/>
+  <circle cx="215" cy="265" r="15" fill="#793e13"/>
+  <circle cx="205" cy="260" r="6" fill="#793e13" stroke="rgb(49,50,50)"/>
+
+<!--куртка-->
+  <polyline points="155,300 155,230" stroke-width="1.5" stroke="rgb(49,50,50)"/>
+  <polyline points="110,258 113,243" stroke-width="1.5" stroke="rgb(49,50,50)"/>
+  <polyline points="200,257 198,244" stroke-width="1.5" stroke="rgb(49,50,50)"/>
+
+<!-- голова -->
+  <circle cx="158" cy="144" r="90" fill="#f56701" stroke-width="1" stroke="rgb(193,66,0)"/>
+  <circle cx="158" cy="155" r="55" fill="#f56701" stroke-width="1.3" stroke="rgb(51,44,55)"/>
+  <circle cx="158" cy="145" r="44" fill="#ffeac1"/>
+
+<!-- левый глаз -->
+  <ellipse cx="135" cy="145" rx="20" ry="24" fill="#ffffff" transform="rotate(30, 138, 151)"/>
+
+<!-- левый зрачек -->
+  <circle cx="145" cy="145" r="3" />
+
+<!-- правый глаз -->
+  <ellipse cx="181" cy="145" rx="20" ry="24" fill="#ffffff" transform="rotate(-30, 181, 150) "/>
+
+<!-- правый зрачек -->
+  <circle cx="171" cy="145" r="3" />
+
+<!-- капюшон -->
+  <path d="M 153 190
+  C 95 195 90 95 160 100
+  Q 100 150 153 190"
+  fill="#7d4019"/>
+
+  <path d="M 150 190
+  C 225 194 225 108 160 100
+  Q 225 150 148 190"
+  fill="#7d4019"/>
+
+<!-- шнурки -->
+  <path d="M 152 190
+  Q 150 215 145 218"
+  stroke-width="1.5"
+  stroke="rgb(49,50,50)"
+  fill="none"/>
+
+  <path d="M 154 190
+  Q 155 224 160 225"
+  stroke-width="1.5"
+  stroke="rgb(49,50,50)"
+  fill="none"/>
+</svg>
+//сделать 2 svg  объекта один большой и маленкий
